@@ -1,0 +1,17 @@
+{
+  "name": "preternatural-typescript-config",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "echo 'No build step'"
+  },
+  "private": false,
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "exports": {
+    "./base.json": "./base.json",
+    "./nextjs.json": "./nextjs.json",
+    "./react-library.json": "./react-library.json"
+  }
+}
