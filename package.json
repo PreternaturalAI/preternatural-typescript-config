@@ -1,6 +1,6 @@
 {
-  "name": "preternatural-typescript-config",
-  "version": "0.0.1",
+  "name": "@preternatural/preternatural-typescript-config",
+  "version": "0.1.0",
   "scripts": {
     "build": "echo 'No build step'"
   },
